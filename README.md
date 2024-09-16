@@ -1,6 +1,10 @@
 ```markdown
 # Github Link 
 https://github.com/Gemjenny/StegDevOps
+# Linkedin Post URL
+https://www.linkedin.com/posts/activity-7239721427094953984-dQek?utm_source=share&utm_medium=member_android
+```sql
+
 ```sql
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
 ```
